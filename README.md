@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Joy Zheng, a naive student major in Computer Science.
+
 <!--
 **Joy-Zhe/Joy-Zhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on sound processing with FPGA
+- 🌱 I’m currently learning NLP, compilers
+- 📫 How to reach me: joyzheng2003@gmail.com
 
 ![](https://raw.githubusercontent.com/Joy-Zhe/Joy-Zhe/output/github-contribution-grid-snake.svg)
 
