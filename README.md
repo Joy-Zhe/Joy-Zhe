@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/Joy-Zhe/Joy-Zhe/output/github-contribution-grid-snake.svg)
 
-
+![](https://raw.githubusercontent.com/Joy-Zhe/myGithubStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Joy-Zhe/myGithubStats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Joy-Zhe/myGithubStats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Joy-Zhe/myGithubStats/master/generated/languages.svg#gh-light-mode-only)
