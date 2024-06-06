@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on sound processing with FPGA
 - 🌱 I’m currently learning NLP, compilers
-- 📫 How to reach me: joyzheng2003@gmail.com
+- 📫 How to reach me: joyzheng@zju.edu.cn
 
 ![](https://raw.githubusercontent.com/Joy-Zhe/Joy-Zhe/output/github-contribution-grid-snake.svg)
 
