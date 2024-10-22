@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on sound processing with FPGA
-- 🌱 I’m currently learning NLP, compilers
+- 🔭 I’m currently working on storage
+- 🌱 I’m currently learning NVMe
 - 📫 How to reach me: joyzheng@zju.edu.cn
 
 ![](https://raw.githubusercontent.com/Joy-Zhe/Joy-Zhe/output/github-contribution-grid-snake.svg)
