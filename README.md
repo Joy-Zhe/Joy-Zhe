@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on storage
-- 🌱 I’m currently learning NVMe
+- 🌱 I’m currently learning NVMe, PCIe, DMA, Linux kernel...
 - 📫 How to reach me: joyzheng@zju.edu.cn
 
 ![](https://raw.githubusercontent.com/Joy-Zhe/Joy-Zhe/output/github-contribution-grid-snake.svg)
